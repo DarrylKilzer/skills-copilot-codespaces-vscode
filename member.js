@@ -12,3 +12,6 @@ function skillsMember() {
 
   member.showSkills();
 }
+
+
+// Path: member.js
